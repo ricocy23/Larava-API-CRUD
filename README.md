@@ -22,7 +22,6 @@ php artisan key:gen
 ```
 php artisan serve
 for access http://localhost:8000/api/buku (backend)
-
 ```
 
 ```
